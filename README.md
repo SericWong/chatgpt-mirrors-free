@@ -10,8 +10,8 @@
 
 ## 🚀 快速访问入口
 
-- ChatGPT 中文版入口：[gpt 中文版](https://chat.aibox365.cn)
-- ChatGPT 镜像站导航：[gpt 镜像站](https://chat.write360.cn)
+- ChatGPT 中文版入口：[gpt 中文版](https://chat.aimirror123.com)
+- ChatGPT 镜像站导航：[gpt 镜像站](https://www.chatgpt-mirrors.com/chatgpt)
 
 ---
 
