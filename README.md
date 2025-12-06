@@ -93,7 +93,7 @@
 
 **轻松开启AI对话之旅**
 
-1. **选择优质站点**：推荐访问 [chat.aibox365.cn](https://chat.aibox365.cn)
+1. **选择优质站点**：推荐访问 [智镜](https://chat.aimirror123.com)
 2. **注册账号**：使用手机号或邮箱快速完成注册
 3. **选择模型**：根据需求切换 GPT-4o、Claude、Gemini、Grok 等
 4. **开始对话**：支持写作、翻译、编程、办公等多样化功能
@@ -114,7 +114,7 @@
 ## ❓ 常见问题解答（FAQ）
 
 ### 如何在国内无障碍访问 ChatGPT？
-推荐使用 [chat.aibox365.cn](https://chat.aibox365.cn) 等镜像站，无需科学上网，注册后即可畅享 GPT-4o 等最新模型，与官网功能同步。
+推荐使用 [智镜n](https://chat.aimirror123.com) 等镜像站，无需科学上网，注册后即可畅享 GPT-4o 等最新模型，与官网功能同步。
 
 ### 中文镜像站支持哪些AI模型？
 涵盖 GPT-4、GPT-4o、o1、o3、Claude、Gemini、Grok、DeepSeek 等，满足学术研究、创意写作、日常问答等多样化需求。
